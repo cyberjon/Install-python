@@ -6,3 +6,4 @@ sudo tar xzf Python-2.7.14.tgz
 cd Python-2.7.14
 sudo ./configure --enable-optimizations
 sudo make altinstall
+python-setuptools
