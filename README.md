@@ -1,4 +1,5 @@
 # Install-python
+sudo add-apt-repository --remove ppa:fkrull/deadsnakes;
 sudo apt-get remove --purge python3.6;
 sudo apt-get remove --purge python3.5;
 sudo apt autoremove python;
